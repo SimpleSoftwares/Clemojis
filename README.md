@@ -1,4 +1,4 @@
-![Alt text](autres/readme.png "Clemoji")
+![Alt text](Autres/readme.png "Clemoji")
 ========
 
 Des nouveaux smileys pour Zeste de Savoir ?
