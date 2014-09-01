@@ -1,4 +1,4 @@
-![Alt text](Autres/readme.png "Clemoji")
+![Alt text](Autres/read_me.png "Clemoji")
 ========
 
 Vous trouvez les smileys de ZesteDeSavoir.fr trop communs ? Vous aimeriez voir quelque chose de plus original ? Des smileys créés selon l'avis de la communauté ?
